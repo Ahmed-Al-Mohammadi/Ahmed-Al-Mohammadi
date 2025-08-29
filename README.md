@@ -1,5 +1,7 @@
 # Ahmed-Al-Mohammadi
 
+![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 ## About Me
 
 Hello! I'm Ahmed Al-Mohammadi, a passionate and driven developer with a strong interest in building innovative solutions across various domains. My journey in technology is fueled by a desire to create impactful applications and explore the ever-evolving landscape of software development. I am constantly seeking opportunities to learn new technologies, collaborate on exciting projects, and contribute to the open-source community.
