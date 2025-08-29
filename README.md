@@ -88,4 +88,7 @@ My commitment to continuous learning is reflected in the certifications I have a
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-yasser-755aba259) or reach out via GitHub for collaborations or inquiries.
 
+![GIF](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+
+
 ---
